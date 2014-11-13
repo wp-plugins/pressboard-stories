@@ -1,7 +1,7 @@
 === Pressboard Stories ===
 Contributors: pressboard
 Tags: sponsored stories, content marketing
-Requires at least: 2.5
+Requires at least: 2.7
 Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2 or later
@@ -15,15 +15,14 @@ Automatically activate your Pressboard sponsored stories.
 
 == Installation ==
 
-1. Upload 'pressboard-stories.php' to the '/wp-content/plugins/' directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Under Settings -> Pressboard Stories, enter your Media ID.
+1. Activate the plugin through the 'Plugins' menu in WordPress.
+2. Under Settings -> Pressboard Stories, enter your Media ID.
 
 == Frequently Asked Questions ==
 
 = Where do I find my Media ID? =
 
-Login to your Pressboard account at https://manage.pressboard.ca, click "Web Sites", open your website and click "Get Code".
+Login to your Pressboard account at https://manage.pressboard.ca, click "Web Sites", open your web site and click "Get Code".
 
 == Screenshots ==
 
