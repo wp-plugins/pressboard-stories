@@ -2,7 +2,7 @@
 Contributors: pressboard
 Tags: sponsored stories, content marketing
 Requires at least: 2.7
-Tested up to: 4.0
+Tested up to: 4.1.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -33,3 +33,5 @@ Login to your Pressboard account at https://manage.pressboard.ca, click "Web Sit
 = 1.0 =
 * Initial version.
 
+= 1.01 =
+* Tested with latest version of WordPress.
