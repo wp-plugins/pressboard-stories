@@ -70,7 +70,7 @@ class PressboardStories
             // echo '<script>(function (global) { global.PressboardMedia = { mediaId: ' . esc_attr($this->options[ 'media_id' ]) . ' } })(this);</script>';
             // . '<script type="text/javascript" src="' . plugins_url( 'pressboard-js.js', __FILE__ ) . '"></script>';
             
-            echo '<script type="text/javascript" id="pressboard-embedder-d5a159268ae6">' . 
+            echo '<script type="text/javascript">' . 
             '(function () { ' .
             '    var d = document,' .
             '        s = d.createElement("script"), ' .
