@@ -30,8 +30,8 @@ Login to your Pressboard account at https://manage.pressboard.ca, click "Web Sit
 
 == Changelog ==
 
-= 1.0 =
-* Initial version.
-
 = 1.01 =
 * Tested with latest version of WordPress.
+
+= 1.0 =
+* Initial version.
