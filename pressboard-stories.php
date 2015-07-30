@@ -3,7 +3,7 @@
  * Plugin Name: Pressboard Stories
  * Plugin URI: https://manage.pressboard.ca
  * Description: Automatically activate your Pressboard sponsored stories.
- * Version: 1.0
+ * Version: 1.05
  * Author: Pressboard Media Inc.
  * Author URI: http://www.pressboardmedia.com
  * License: A "Slug" license name e.g. GPL2
@@ -77,7 +77,7 @@ class PressboardStories
             '        d = d.getElementsByTagName("script")[0]; ' .
             '    s.type = "text/javascript"; ' .
             '    s.async = !0; ' .
-            '    s.src = "http://adserver.pressboard.ca/v1/embedder?media=' . esc_attr($this->options[ 'media_id' ]) . '"; ' .
+            '    s.src = "//adserver.pressboard.ca/v1/embedder?media=' . esc_attr($this->options[ 'media_id' ]) . '"; ' .
             '    d.parentNode.insertBefore(s, d); ' .
             '})(); ' . 
             '</script> ';
