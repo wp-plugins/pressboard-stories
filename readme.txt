@@ -2,7 +2,7 @@
 Contributors: pressboard
 Tags: sponsored stories, content marketing
 Requires at least: 2.7
-Tested up to: 4.1.1
+Tested up to: 4.2.3
 Stable tag: 1.05
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
